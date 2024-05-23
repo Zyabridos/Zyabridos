@@ -2,5 +2,5 @@
 <p>Current location: Trondheim, Norway 🇳🇴 </p>
 <p>How to contact me: send an email to zyabrina95@gmail.com </p>
 <p>My education: Bachelor's degree in 09.03.03 Applied Informatics </p>
-<h5>My Tech Stack:</h5>
+<h3>My Tech Stack:</h3>
 <p>JavaScript, NodeJS, HTML, CSS</p>
