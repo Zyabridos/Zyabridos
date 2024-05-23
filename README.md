@@ -21,10 +21,10 @@ My education: Bachelor's degree in 09.03.03 Applied Informatics
 </p>
 
 ### Soft Skills
-💎 Fast lerner
-💎 Focused on the business needs
-💎 Self-sufficiant worker, but also work excellent in a team
-💎 Strong at any types of communication
+<p>💎 Fast lerner </p>
+<p>💎 Focused on the business needs </p>
+<p>💎 Self-sufficiant worker, but also work excellent in a team </p>
+<p>💎 Strong at any types of communication </p>
 
 ### Socials
 
