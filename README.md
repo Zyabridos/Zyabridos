@@ -45,7 +45,6 @@ My education: Bachelor's degree in 09.03.03 Applied Informatics
 ### Testing  
 <div align="left">  
 <a href="https://jestjs.io" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50" /></a>  
-</div>
 <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="githubactions" height="50" /></a>  
 </div>
 
