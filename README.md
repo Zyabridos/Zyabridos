@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nina Zyabrina
+wHi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nina Zyabrina
 =====================================================================================================================================
 
 Fullstack developer
@@ -8,8 +8,8 @@ My education: Bachelor's degree in 09.03.03 Applied Informatics
 
 * 🌍  I'm based in Trondheim, Norway 🇳🇴
 * ✉️  You can contact me at [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)
-* 🚀  I'm currently working on [shopoing-cart](https://github.com/Zyabridos/shop_card)
-* 🧠  I'm currently learning Redux Toolkit
+* 🚀  I'm currently working on [Chat (slack)](https://github.com/Zyabridos/slack_chat)
+* 🧠  I'm currently learning Databases
 * 🤝  I'm open to collaborating on OpenSource projects
 
 ### Hard Skills
