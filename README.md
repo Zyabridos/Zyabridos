@@ -8,7 +8,7 @@ My education: Bachelor's degree in 09.03.03 Applied Informatics
 
 * 🌍  I'm based in Trondheim, Norway 🇳🇴
 * ✉️  You can contact me at [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)
-* 🚀  I'm currently working on [Chat](https://github.com/Zyabridos/slack_chat)
+* 🚀  I'm currently working on [Task Manager](https://github.com/Zyabridos/taskManager)
 * 🧠  I'm currently learning Fastify
 * 🤝  I'm open to collaborating on OpenSource projects
 
