@@ -45,6 +45,8 @@ My education: Bachelor's degree in 09.03.03 Applied Informatics
 </a> 
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
 <a/>
+<a href="https://fastify.dev/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" alt="pug" width="40" height="40" />
+<a/>
 </div>
 
 ### Testing  
