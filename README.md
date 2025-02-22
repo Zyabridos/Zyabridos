@@ -10,7 +10,7 @@ My education: Bachelor's degree in 09.03.03 Applied Informatics
 * ✉️  You can contact me at [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)
 * 🚀  I'm currently working on [Task Manager](https://github.com/Zyabridos/taskManager)
 * 🧠  I'm currently learning Fastify
-* 🤝  I'm open to collaborating on OpenSource projects
+* 🤝  I'm open to collaborating on open source projects
 
 ### Hard Skills
 
