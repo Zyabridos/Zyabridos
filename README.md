@@ -1,76 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nina Zyabrina
-=====================================================================================================================================
+# Hi 👋 My name is Nina Zyabrina
 
-Fullstack developer
-------------------
+## Fullstack Developer
 
-My education: Bachelor's degree in 09.03.03 Applied Informatics
+🌍 I'm based in Trondheim, Norway 🇳🇴  
+✉️ You can contact me at [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)  
+🚀 I'm currently working on [Task Manager](https://github.com/Zyabridos/taskManager)  
+🧠 I'm currently learning Fastify  
+🤝 I'm open to collaborating on open-source projects  
 
-* 🌍  I'm based in Trondheim, Norway 🇳🇴
-* ✉️  You can contact me at [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)
-* 🚀  I'm currently working on [Task Manager](https://github.com/Zyabridos/taskManager)
-* 🧠  I'm currently learning Fastify
-* 🤝  I'm open to collaborating on open source projects
+---
 
-### 🛠 Hard Skills
+## 🛠 Tech Stack
 
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
       <h3>Frontend</h3>
-      <p align="center">
-        <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/></a>
-        <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50"/></a>
-        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="50"/></a>
-        <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50"/></a>
-        <a href="https://www.w3.org/html/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/></a>
-        <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/></a>
-        <a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="50"/></a>
-        <a href="https://babeljs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/babel-plain.svg" alt="Babel" height="50"/></a>
+      <p>
+        <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
+        <a href="https://redux.js.org/"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50"/></a>
+        <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="50"/></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
       </p>
     </td>
-    
     <td align="center" valign="top" width="33%">
       <h3>Backend</h3>
-      <p align="center">
-        <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/></a>
-        <a href="https://fastify.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" alt="Fastify" height="50"/></a>
-        <a href="https://pugjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="50"/></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></a>
-        <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50"/></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/></a>
+      <p>
+        <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
+        <a href="https://fastify.dev/"><img src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" height="50"/></a>
+        <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50"/></a>
       </p>
     </td>
-    
     <td align="center" valign="top" width="33%">
       <h3>Testing & DevOps</h3>
-      <p align="center">
-        <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="50"/></a>
-        <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="50"/></a>
-        <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/></a>
+      <p>
+        <a href="https://jestjs.io/"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="50"/></a>
+        <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50"/></a>
       </p>
     </td>
   </tr>
 </table>
 
+---
 
-</td></tr></table>  
+## 🏆 GitHub Stats
 
-### Soft Skills
-<p>💎 Fast learner </p>
-<p>💎 Focused on business needs </p>
-<p>💎 Self-Disciplined </p>
-<p>💎 Self-sufficiant worker, but also work excellent in a team </p>
-<p>💎 Strong at any types of communication </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyabridos&show_icons=true&theme=radical)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Zyabridos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## 🔗 Socials
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Zyabridos"><img src="https://github-readme-stats.vercel.app/api?username=Zyabridos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zyabridos's GitHub stats" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Zyabridos)
