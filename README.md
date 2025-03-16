@@ -5,7 +5,7 @@
 💻 Passionate about building **scalable** and **efficient** web applications  
 🌍 Based in **Trondheim, Norway 🇳🇴**  
 📩 Contact me: [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)  
-🔗 Connect with me: [GitHub](https://github.com/Zyabridos) | [LinkedIn](https://www.linkedin.com/in/zyabridos) | [Telegram](https://t.me/yourusername)  
+🔗 Connect with me: [GitHub](https://github.com/Zyabridos) | [LinkedIn]([https://www.linkedin.com/in/zyabridos](https://www.linkedin.com/in/nina-zyabrina-2a8b66217/)) | [Telegram](https://t.me/zyabridos)  
 
 💡 Currently working on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
 📚 Learning **Fastify** & exploring backend optimizations  
@@ -44,7 +44,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![Nina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyabridos&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyabridos&layout=compact&theme=radical)  
 
 ---
