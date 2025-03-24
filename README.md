@@ -8,7 +8,7 @@
 🔗 Connect with me: [GitHub](https://github.com/Zyabridos) | [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217) | [Telegram](https://t.me/zyabridos)  
 
 💡 Currently working on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
-📚 Learning **Fastify** & exploring backend optimizations  
+📚 Learning **Ansible** & exploring backend optimizations  
 🤝 Open to collaboration on **open-source projects & freelance opportunities**  
 
 ---
