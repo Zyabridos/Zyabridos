@@ -46,5 +46,5 @@
 🚀 **Let's collaborate!** Drop me an email or connect via **GitHub & Telegram**.  
 
 ---
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=zyabridos.https://github.com/Zyabridos/Zyabridos/edit/main/README.md)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%
 
