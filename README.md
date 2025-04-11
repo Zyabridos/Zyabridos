@@ -43,9 +43,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyabridos&layout=compact&theme=radical)  
-
----
-
 🚀 **Let's collaborate!** Drop me an email or connect via **GitHub & Telegram**.  
