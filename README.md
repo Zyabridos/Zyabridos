@@ -44,7 +44,3 @@
 ---
 
 🚀 **Let's collaborate!** Drop me an email or connect via **GitHub & Telegram**.  
-
----
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%
-
