@@ -44,4 +44,7 @@
 ---
 
 🚀 **Let's collaborate!** Drop me an email or connect via **GitHub & Telegram**.  
-<img src="https://profile-counter-f3w0zidvz-zyabridos-projects.vercel.app/api/views" alt="counter" style="display: none;" />
+
+---
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=zyabridos.https://github.com/Zyabridos/Zyabridos/edit/main/README.md
+
