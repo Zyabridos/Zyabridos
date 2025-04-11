@@ -44,3 +44,5 @@
 ---
 
 🚀 **Let's collaborate!** Drop me an email or connect via **GitHub & Telegram**.  
+
+<img src="https://your-vercel-app.vercel.app/api/views" alt="counter" style="display: none;" />
