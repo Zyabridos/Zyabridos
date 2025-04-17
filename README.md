@@ -9,10 +9,10 @@
 
 ## 🧠 What I'm Focused On
 
-- 🧩 Developing fullstack apps with modern tooling  
-- 🤖 Automating infrastructure & deployments (Ansible, Docker, GitHub Actions)  
-- 📐 Writing scalable code with proper testing and localization (E2E, i18n)  
-- 🔄 Bridging development and operations with DevOps best practices
+🧩 Developing fullstack apps with modern tooling  
+🤖 Automating infrastructure & deployments (Ansible, Docker, GitHub Actions)  
+📐 Writing scalable code with proper testing and localization (E2E, i18n)  
+🔄 Bridging development and operations with DevOps best practices
 
 ## 🎯 Current Priorities
 
