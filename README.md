@@ -1,11 +1,18 @@
-# Hi 👋, I'm Nina Zyabrina  
+# Hi 👋 I'm Nina Zyabrina
 
-## 🚀 Fullstack Developer  
+## 🚀 DevOps-minded Fullstack Developer
 
-💻 Passionate about building **scalable** and **efficient** web applications  
+💻 Passionate about building **scalable**, **production-ready** web applications with clean architecture and a focus on automation and performance.  
 🌍 Based in **Trondheim, Norway 🇳🇴**  
 📩 Contact me: [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)  
 🔗 Connect with me: [GitHub](https://github.com/Zyabridos) | [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217) | [Telegram](https://t.me/zyabridos)  
+
+## 🧠 What I'm Focused On
+
+- Developing fullstack apps with modern tooling  
+- Automating infrastructure & deployments (Ansible, Docker, GitHub Actions)  
+- Writing scalable code with proper testing and localization (E2E, i18n)  
+- Bridging development and operations with DevOps best practices
 
 💡 Currently working on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
 📚 Learning **Ansible** & exploring backend optimizations  
