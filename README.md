@@ -14,7 +14,9 @@
 - 📐 Writing scalable code with proper testing and localization (E2E, i18n)  
 - 🔄 Bridging development and operations with DevOps best practices
 
-💡 Currently working on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
+## 🎯 Current Priorities
+
+💡 Цorking on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
 📚 Learning **Ansible** & exploring backend optimizations  
 🤝 Open to collaboration on **open-source projects & freelance opportunities**  
 
