@@ -11,8 +11,9 @@
 
 🧩 Developing fullstack apps with modern tooling  
 🤖 Automating infrastructure & deployments (Ansible, Docker, GitHub Actions)  
-📐 Writing scalable code with proper testing and localization (E2E, i18n)  
+📐 Writing scalable code with proper testing (E2E, Jest)  
 🔄 Bridging development and operations with DevOps best practices
+🎨 Building intuitive, user-friendly interfaces with attention to UX and accessibility
 
 ## 🎯 Current Priorities
 
