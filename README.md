@@ -5,7 +5,7 @@
 💻 Passionate about building **scalable**, **production-ready** web applications with clean architecture and a focus on automation and performance.  
 🌍 Based in **Trondheim, Norway 🇳🇴**  
 📩 Contact me: [zyabrina95@gmail.com](mailto:zyabrina95@gmail.com)  
-🔗 Connect with me: [GitHub](https://github.com/Zyabridos) | [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217) | [Telegram](https://t.me/zyabridos)  
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217) | [Telegram](https://t.me/zyabridos)  
 
 ## 🧠 What I'm Focused On
 
