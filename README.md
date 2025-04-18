@@ -17,7 +17,7 @@
 
 ## 🎯 Current Priorities
 
-💡 Цorking on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
+💡 Working on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
 📚 Learning **Ansible** & exploring backend optimizations  
 🤝 Open to collaboration on **open-source projects & freelance opportunities**  
 
