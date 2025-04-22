@@ -17,7 +17,7 @@
 
 ## 🎯 Current Priorities
 
-💡 Working on **[Task Manager](https://github.com/Zyabridos/taskManager)**  
+💡 Working on **[Mini Social Network](https://github.com/Zyabridos/social_network)**  
 📚 Learning **Ansible** & exploring backend optimizations  
 🤝 Open to collaboration on **open-source projects & freelance opportunities**  
 
