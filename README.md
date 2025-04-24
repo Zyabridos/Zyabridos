@@ -29,6 +29,7 @@
 <div align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/></a>
   <a href="https://fastify.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" alt="Fastify" height="50"/></a>
+  <a href="https://pugjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="50"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>
