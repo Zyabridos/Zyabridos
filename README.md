@@ -52,7 +52,8 @@
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" height="50"/></a>
-</div>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="50"/></a>
+</div> 
 
 ---
 
