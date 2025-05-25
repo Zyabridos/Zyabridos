@@ -44,11 +44,12 @@
   <a href="https://nextjs.org/" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqbz0vazrvu8m14jkuop.png" alt="Next.js" height="50" width="100"/></a>
 </div>
 
-### 🧪 Testing & DevOps  
+### 🧪 Testing
 <div align="left">
   <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="50"/></a>
   <a href="https://vitest.dev/" target="_blank"><img src="https://vitest.dev/logo.svg" alt="Vitest" height="50"/></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://andrewevans.dev/images/PLAYWRIGHT.png" alt="Playwright" height="50"/></a>
+### ⚙️ DevOps / CI/CD
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" height="50"/></a>
