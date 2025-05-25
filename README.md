@@ -50,6 +50,7 @@
   <a href="https://vitest.dev/" target="_blank"><img src="https://vitest.dev/logo.svg" alt="Vitest" height="50"/></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://andrewevans.dev/images/PLAYWRIGHT.png" alt="Playwright" height="50"/></a>
 </div> 
+
 ### 🔧 DevOps / CI/CD
 <div align="left">
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="50"/></a>
