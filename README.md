@@ -62,3 +62,11 @@
 ---
 
 🚀 **Let's collaborate!** Drop me an email or connect via **GitHub & Telegram**.  
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyabridos&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyabridos&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyabridos&theme=github-dark)
