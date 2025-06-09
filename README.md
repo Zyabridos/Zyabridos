@@ -17,7 +17,7 @@
 
 ## 🎯 Current Priorities
 
-💡 Working on **[Mini Social Network](https://github.com/Zyabridos/social_network)**  
+💡 Working on **[Docker-based infrastructure with Terraform and Ansible](https://github.com/Zyabridos/terraform-project)**  
 📚 Learning **Terraform**, focusing on optimizing fullstack workflows and infrastructure  
 🤝 Open to collaboration on **open-source projects**  
 
