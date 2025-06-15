@@ -18,7 +18,7 @@
 ## 🎯 Current Priorities
 
 💡 Working on **[Docker-based infrastructure with Terraform and Ansible](https://github.com/Zyabridos/terraform-project)**  
-📚 Learning **Terraform**, focusing on optimizing fullstack workflows and infrastructure  
+📚 Currently learning **Java**, focusing on backend performance and architecture optimization
 🤝 Open to collaboration on **open-source projects**  
 
 ---
