@@ -9,17 +9,18 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
 
 ## What I'm Focused On
 
-Developing fullstack apps with modern tooling  
-Automating infrastructure & deployments (Ansible, Docker, GitHub Actions)  
-Writing scalable code with proper testing (E2E, Jest)  
-Bridging development and operations with DevOps best practices  
-Building intuitive, user-friendly interfaces with attention to UX and accessibility
+- Developing fullstack apps with modern tooling  
+- Automating infrastructure & deployments (Ansible, Docker, GitHub Actions)  
+- Writing scalable code with proper testing (E2E, Jest)  
+- Bridging development and operations with DevOps best practices  
+- Building intuitive, user-friendly interfaces with attention to UX and accessibility
 
 ## Current Priorities
 
-Building my **[Personal 3D Printing & Miniature Painting Tips](https://github.com/Zyabridos/knowledgeOps)** knowledge base  
-Deepening my expertise in **Sanity CMS**, especially in backend performance, GROQ queries, and scalable content architecture  
-Open to collaborating on **open-source projects**, especially within DevOps, frontend, or CMS ecosystems
+- Expanding my **[Personal 3D Printing & Miniature Painting Tips](https://github.com/Zyabridos/knowledgeOps)** knowledge base  
+- Learning **Sanity CMS** and deepening my expertise in **Java** and **backend performance optimization**
+- Currently reading *You Don’t Know JS* to strengthen my core frontend expertise
+- Open to collaboration on **open-source projects**, particularly within DevOps, frontend, or CMS ecosystems
 
 ---
 
