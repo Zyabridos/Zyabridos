@@ -17,7 +17,7 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
 
 ## Current Priorities
 
-- Expanding my **[Personal 3D Printing & Miniature Painting Tips](https://github.com/Zyabridos/knowledgeOps)** knowledge base  
+- Building my **[Personal 3D Printing & Miniature Painting Tips](https://github.com/Zyabridos/knowledgeOps)** knowledge base
 - Learning **Sanity CMS** and deepening my expertise in **Java** and **backend performance optimization**
 - Currently reading *You Don’t Know JS* to strengthen my core frontend expertise
 - Open to collaboration on **open-source projects**, particularly within DevOps, frontend, or CMS ecosystems
