@@ -35,9 +35,7 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
 <a href="https://reactjs.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45"/> </a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="45" style="background-color:white; padding:6px; border-radius:6px;"/>
-</a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" height="45"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/> </a>
 <a href="https://fastify.dev/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" alt="Fastify" height="50"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.simpleicons.org/dotnet/ffffff" alt=".NET" height="45"/> </a>
