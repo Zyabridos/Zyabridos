@@ -28,7 +28,7 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
 
 ## Core stack
 
-Used daily in production, taking end-to-end ownership
+Core technologies I work with daily, owning delivery end-to-end
 
 <div align="left">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/> </a>
@@ -38,9 +38,10 @@ Used daily in production, taking end-to-end ownership
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="50"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/> </a>
+  <a href="https://playwright.dev/" target="_blank"> <img src="https://andrewevans.dev/images/PLAYWRIGHT.png" alt="Playwright" height="45"/> </a> <a href="https://jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="45"/> </a>
+  <a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo.svg" alt="Vitest" height="45"/> </a>
 </div>
 
 ## Supporting stack
@@ -52,8 +53,7 @@ Used as needed, in specific projects or for infrastructure
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="45"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue 3" height="50"/ </a>
   <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinia/pinia-original.svg" alt="Pinia" height="50"/> </a>
-  <a href="https://playwright.dev/" target="_blank"> <img src="https://andrewevans.dev/images/PLAYWRIGHT.png" alt="Playwright" height="45"/> </a> <a href="https://jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="45"/> </a>
-  <a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo.svg" alt="Vitest" height="45"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/> </a>
   <a href="https://github.com/features/actions" target="_blank"> <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="45"/> </a> <a href="https://www.ansible.com/" target="_blank"> <img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" height="45"/> </a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="45"/> </a>
   <a href="https://www.sanity.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18593897?s=200&v=4" alt="Sanity CMS" height="45"/> </a>
