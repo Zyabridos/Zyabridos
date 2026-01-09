@@ -17,24 +17,17 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
 
 ## Current Priorities
 
-- Building my **[Personal 3D Printing & Miniature Painting Tips](https://github.com/Zyabridos/knowledgeOps)** knowledge base
+- Building my **[Real Estate Mini Portal](https://github.com/Zyabridos/real_estate_portal)** knowledge base
 - Learning **Sanity CMS** and deepening my expertise in **Java** and **backend performance optimization**
 - Currently reading *You Don’t Know JS* to strengthen my core frontend expertise
-- Open to collaboration on **open-source projects**, particularly within DevOps, frontend, or CMS ecosystems
+- Open to collaboration on **open-source projects**, particularly within DevOps or backend
 
 ---
 
 ## Tech Stack  
 
 ### Backend  
-<div align="left">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/></a>
-  <a href="https://fastify.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" alt="Fastify" height="50"/></a>
-  <a href="https://pugjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="50"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>
-</div>
+<div align="left"> <!-- .NET / C# --> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET 10" height="50"/> </a> <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50"/> </a> <!-- Java --> <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="50"/> </a> <!-- Node --> <a href="https://nodejs.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/> </a> <a href="https://fastify.dev/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" alt="Fastify" height="50"/> </a> <a href="https://pugjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="50"/> </a> <!-- Databases --> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50"/
 
 ### Frontend  
 <div align="left">
@@ -42,8 +35,8 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
   <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqbz0vazrvu8m14jkuop.png" alt="Next.js" height="50" width="100"/></a>
   <a href="https://www.sanity.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/18593897?s=200&v=4" alt="Sanity CMS" height="50"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqbz0vazrvu8m14jkuop.png" alt="Next.js" height="50" width="100"/></a>
 </div>
 </div>
 
