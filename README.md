@@ -66,16 +66,34 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
 
 **Used as needed, in specific projects**
 
-<div align="left">
-<a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue 3" height="50"/> </a>
-<a href="https://pinia.vuejs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/vuejs/pinia/v2/packages/docs/public/logo.svg" alt="Pinia" height="45"/></a> 
-<a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="45"/> </a>
-<a href="https://www.sanity.io/" target="_blank" rel="noopener noreferrer"> <img src="https://avatars.githubusercontent.com/u/18593897?s=200&v=4" alt="Sanity CMS" height="45"/> </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" height="45"/> </a>
-<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="45"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="45"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/> </a><a href="https://pugjs.org/" target="_blank" rel="noopener noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="45"/> </a>
+<div>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/vuejs/pinia/v2/packages/docs/public/logo.svg" alt="Pinia" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"> 
+  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://www.sanity.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/18593897?s=200&v=4" alt="Sanity" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="42" style="margin-right:12px;" />
+  </a>
+  <a href="https://pugjs.org/" target="_blank" rel="noopener noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="42" />
+  </a>
 </div>
 
 ---
