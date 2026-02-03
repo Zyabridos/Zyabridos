@@ -57,6 +57,7 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-zyabrina-2a8b66217)
 **Driving CI/CD and deployment workflows, from local dev to production**
 
 <div align="left"> <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="45"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" height="45"/> </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="45"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" height="45"/> </a> 
 <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="45"/> </a>
